@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkashahS
 - 👀 I’m interested in Machine Learning and Artificial Intelligence 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m doing PhD in Computer Vision at MBZUAI
 - 💞️ I’m looking to collaborate on Git
 - 📫 Reach me at akashahmohsin@gmail.com
 
